@@ -1,0 +1,27 @@
+le projet wanted est un projet à volet sociale permettant d'aider
+la communauté sur la recherche des personnes annoncées disparus.
+Renforcer la communauté sur une plateforme centralisant l'ensemble 
+des annonces de disparution et aidant les services de l'orde sur les 
+enquêtes et le suivi.
+
+La plateforme sera mobile et fonctionnera ainsi:
+
+On aura une authentification et une inscription au niveau de la plateforme
+
+La page accueil relatera l'ensemble des postes de personnes disparus ainsi qu'un 
+ensemble d'information sur les circonstances de disparution. 
+Les numéros en cas de contact pour une quelconque informations seront affichés
+de même assurer un canal de communication via appel,ou whatsapp ou même par un
+système de chat qui sera aussi mis en place.
+
+les menus seront une page de paramétre en ayant la possibilité de modifier ses infos perso de compte
+une page d'ajout d'annonces avec la possibilité d'ajouter une photo du disparu.
+une page single pour chaque post pour voir en clair les circonstances de disparution.
+Dans même cette page on peut avoir la possibilité d'ajouter un audio vocal ou une vidéo de 
+témoignage nécessaire afin de mieux expliquer les circonstances de disparution.
+
+
+la plateforme mobile sera réalisée avec l'aide de deux technos tels que flutter et comme backend node js
+Et hop !!! au travail !!!
+
+Happy coding !!!!
